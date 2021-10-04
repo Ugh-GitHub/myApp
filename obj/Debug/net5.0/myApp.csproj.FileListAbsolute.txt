@@ -1,0 +1,15 @@
+/Users/peterp/prime/post_prime/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/peterp/prime/post_prime/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/peterp/prime/post_prime/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/peterp/prime/post_prime/myApp/bin/Debug/net5.0/myApp.dll
+/Users/peterp/prime/post_prime/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/peterp/prime/post_prime/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/peterp/prime/post_prime/myApp/obj/Debug/net5.0/myApp.csproj.AssemblyReference.cache
+/Users/peterp/prime/post_prime/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peterp/prime/post_prime/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/peterp/prime/post_prime/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/peterp/prime/post_prime/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/peterp/prime/post_prime/myApp/obj/Debug/net5.0/myApp.dll
+/Users/peterp/prime/post_prime/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/peterp/prime/post_prime/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/peterp/prime/post_prime/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
